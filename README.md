@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Responsive Disaster Alert & Management Web App 👯 Open to collaborate on: Open-source MERN stack & real-time web tools🤝 Looking for help with: Advanced WebSockets & spatial database optimizations 🌱 Currently learning: Full stack web developemnt,  Fun fact: I can debug code faster when there's good coffee around!
+🔭 Working on: Responsive Disaster Alert & Management Web App 👯 Open to collaborate on: Open-source MERN stack & real-time web tools🤝 Looking for help with: Advanced WebSockets & spatial database optimizations 🌱 Currently learning: Full stack web development,  Fun fact: I can debug code faster when there's good coffee around!
 
 
 ## 🌐 Socials:
